@@ -1,0 +1,15 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.container {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxM9TOsirI7W1ywVy59z9MS-7bIemY5nzSSxeyjXHXepC3wxSDAFFIFiU_Q2y8nNaYnQ&usqp=CAU");
+    background-repeat: none;
+    background-size: cover;
+    display: flex;
+  flex-direction: column;
+  height:100vh;
+  margin: 0
+}
